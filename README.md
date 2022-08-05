@@ -3,3 +3,5 @@
 ## Group members
 * Adina 
 * Keith
+* Rani 
+* Shani
